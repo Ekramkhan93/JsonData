@@ -1,27 +1,34 @@
-{ "Group":[
-	   {
-	    "name": "Md. Belal Islam",
-	    "id": "021151173"
-           },
-	   {
-	    "name": "Ekram Khan",
-	    "id": "021151072"
-           }, 
-	   {
-	    "name": "Imran Hossain",
-	     "id": "021152008"
-           }
-	   {
-	    "name": "Anand Sarbabidya",
-	    "id": "021161088"
-	   },
-           {
-	    "name": "Mirza Salem",
-	    "id": "021161083"
-	   },
-	   {
-	    "name": "A. M. Taherul Islam",
-	    "id": "021161084"
-	   }
-          ]
+{
+	"Group Members": [{
+			"member1": "Md. Belal Islam",
+			"id": "021151173",
+			"mail": "mislam151173@bseee.uiu.ac.bd",
+			"contact": "01767508203",
+	
+			"member2": "Ekram Khan",
+			"id": "021151072",
+			"mail": "ekhan151072@bseee.uiu.ac.bd",
+			"contact": "01765140064",
+	
+			"member3": "Imran Hossain",
+			"id": "021152008",
+			"mail": "ihossain152008@bseee.uiu.ac.bd",
+			"contact": "01830521516",
+	
+			"member4": "Anand Sarbabidya",
+			"id": "021161088",
+			"mail": "anandsarbabidya@gmail.com",
+			"contact": "01841225724",
+	
+			"member5": "Mirza Salem",
+			"id": "021161083",
+			"mail": "msalem161083@bseee.uiu.ac.bd",
+			"contact": "01533246445",
+	
+			"member6": "A. M. Taherul Islam",
+			"id": "021161084",
+			"mail": "aislam161084@bseee.uiu.ac.bd",
+			"contact": "01735127846"
+		}
+	]
 }
