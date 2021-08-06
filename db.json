@@ -1,40 +1,35 @@
 {
 	"Group_Members": [{
-		"member1": [{
-			"name": "Md. Belal Islam",
-			"id": "021151173",
-			"mail": "mislam151173@bseee.uiu.ac.bd",
-			"contact": "01767508203"
-		}],
-		"member2": [{
-			"name": "Ekram Khan",
-			"id": "021151072",
-			"mail": "ekhan151072@bseee.uiu.ac.bd",
-			"contact": "01765140064"
-		}],
-		"member3": [{
-			"name": "Imran Hossain",
-			"id": "021152008",
-			"mail": "ihossain152008@bseee.uiu.ac.bd",
-			"contact": "01830521516"
-		}],
-		"member4": [{
-			"name": "Anand Sarbabidya",
-			"id": "021161088",
-			"mail": "anandsarbabidya@gmail.com",
-			"contact": "01841225724"
-		}],
-		"member5": [{
-			"name": "Mirza Salem",
-			"id": "021161083",
-			"mail": "msalem161083@bseee.uiu.ac.bd",
-			"contact": "01533246445"
-		}],
-		"member6": [{
-			"name": "A. M. Taherul Islam",
-			"id": "021161084",
-			"mail": "aislam161084@bseee.uiu.ac.bd",
-			"contact": "01735127846"
-		}]
+
+		"name1": "Md. Belal Islam",
+		"id1": "021151173",
+		"mail1": "mislam151173@bseee.uiu.ac.bd",
+		"contact1": "01767508203",
+
+		"name2": "Ekram Khan",
+		"id2": "021151072",
+		"mail2": "ekhan151072@bseee.uiu.ac.bd",
+		"contact2": "01765140064",
+
+		"name3": "Imran Hossain",
+		"id3": "021152008",
+		"mail3": "ihossain152008@bseee.uiu.ac.bd",
+		"contact3": "01830521516",
+
+		"name4": "Anand Sarbabidya",
+		"id4": "021161088",
+		"mail4": "anandsarbabidya@gmail.com",
+		"contact4": "01841225724",
+
+		"name5": "Mirza Salem",
+		"id5": "021161083",
+		"mail5": "msalem161083@bseee.uiu.ac.bd",
+		"contact5": "01533246445",
+
+		"name6": "A. M. Taherul Islam",
+		"id6": "021161084",
+		"mail6": "aislam161084@bseee.uiu.ac.bd",
+		"contact6": "01735127846"
+
 	}]
 }
